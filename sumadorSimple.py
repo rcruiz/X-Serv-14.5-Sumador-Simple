@@ -47,4 +47,3 @@ except ValueError:
                     "</body></html>" + "\r\n")            
 except KeyboardInterrupt:
     mySocket.close()
-  
